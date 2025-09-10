@@ -1,0 +1,14 @@
+.casilla-blanca{
+    background-color: #d9c264;
+    padding: 1px;
+}
+.casilla-negra{
+    background-color: #ed7d31;
+    padding: 1px;
+}
+.tablero{
+    width: 220px;
+}
+img{
+    height: 38px
+}
